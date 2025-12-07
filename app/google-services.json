@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199180501200",
+    "project_id": "studentdashboard-d1afd",
+    "storage_bucket": "studentdashboard-d1afd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199180501200:android:948474f0490b0972e8ded5",
+        "android_client_info": {
+          "package_name": "com.android.studentdashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5fQtahen9Ezs0iFQo51qYU1V5L3-Dwgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
