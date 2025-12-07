@@ -18,7 +18,7 @@ To test the application, use the following credentials. **Note: Inputs are case-
 | **School ID** | `sggp782001` |
 | **Student ID** | `sg211` |
 
-> **Note:** The authentication logic maps these IDs to a Firebase Email/Password flow internally (`sg211@quizzy.app` / `sggp782001`).
+> **Note:** The authentication logic maps these IDs to a Firebase Email/Password flow internally (`sg211@studentdashboard.app` / `sggp782001`).
 
 ## 🛠 Tech Stack
 
