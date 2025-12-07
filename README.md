@@ -60,10 +60,3 @@ The project follows a strict separation of concerns:
 
 The UI was built based on the following Figma design:
 [Quizzy Figma Design](https://www.figma.com/design/D3oikbeJno5ewk28AaAuA7/Quizzy?node-id=7-1323&t=74EPoWkmDCvoqjGa-0)
-
-## 📜 License
-
-```text
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
